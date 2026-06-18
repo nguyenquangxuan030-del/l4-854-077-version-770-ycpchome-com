@@ -1,0 +1,19 @@
+{
+  "site_title": "国产高清电影-热门好看的电影大全-高清视频在线播放",
+  "logo": "国产高清电影",
+  "movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_counts": {
+    "guochan": 250,
+    "gangtai": 250,
+    "rihan": 250,
+    "oumei": 251,
+    "xuanyi": 250,
+    "dongzuo": 249,
+    "aiqing": 250,
+    "juqing": 250
+  },
+  "video_url_count": 20,
+  "cover_rule": "第 N 条影片使用 ./X.jpg，X = ((N - 1) % 150) + 1。",
+  "contains_jpg_files": false
+}
